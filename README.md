@@ -1,1 +1,3 @@
-# react-boilerplate
+# React-boilerplate
+
+React boilerplate using webpack not CRA
