@@ -1,8 +1,9 @@
 {
-  "name": "aanbari-react-boilerplate",
+  "name": "aanbari-react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": "./bin/react-boilerplate.js",
   "scripts": {
     "webpack-dev-server": "webpack-dev-server --env mode=development --hot --progress",
     "webpack": "webpack --env mode=production",
